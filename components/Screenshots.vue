@@ -6,7 +6,7 @@
                         <!-- section title -->
                         <div class="section-title text-center">
                             <h2>Jironis App Screens</h2>
-                            <p>Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt mollit lorem ipsum anim id est laborum perspiciatis unde.</p>
+                            <p>Excepteur sint occaecat cupidatat non proident sunt in culpa qui officia deserunt <br> mollit lorem ipsum anim id est laborum perspiciatis unde.</p>
                         </div>
                         <!-- End of section title -->
                     </div>
