@@ -9,7 +9,7 @@
                               <!-- Logo -->
                               <div class="logo">
                                   <nuxt-link to="/">
-                                      <img class="main-logo2" src="/assets/img/logo2.png" data-rjs="2" alt="jironis">
+                                      <img class="main-logo2" src="/assets/img/logo.png" data-rjs="2" alt="jironis">
                                       <img class="sticky-logo" src="/assets/img/logo.png" data-rjs="2" alt="jironis">
                                   </nuxt-link>
                               </div>
